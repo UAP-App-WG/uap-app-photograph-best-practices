@@ -38,4 +38,4 @@ This is a list I'm collating of UAP media capture (i.e. photos, videos) best pra
 ### Tutorial
 
 * When the user opens the app for the first time, offer them either an interactive augmented reality tutorial or a link to an instructional video on Youtube.
-* Ideally, the tutorial shouuld use the accelerometer to grade how shakily their holding camera, etc.
+* Ideally, the tutorial should use the accelerometer to grade how shakily their holding camera, etc.
