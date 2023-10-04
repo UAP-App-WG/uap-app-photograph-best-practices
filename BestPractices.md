@@ -6,6 +6,7 @@ This is a list I'm collating of UAP media capture (i.e. photos, videos) best pra
 ## Advice that should be given to people using cell phones to photograph/record UAP's
 
 * Hold camera steady.
+* Turn off flash
 * Don't pan the camera unless the UFO is about to go out of frame?
 * Don't use digital zoom.
 * If not using a dedicated UAP capture app, go into your phone's settings and set the camera to the highest quality settings possible. Turn on HDR.
@@ -17,6 +18,7 @@ This is a list I'm collating of UAP media capture (i.e. photos, videos) best pra
 * Make sure your device allow for exif information in photos, if that's a permission on your device.
 * Use the hightest optical zoom you can?
 * Write a detailed account of what you saw as soon as you're photographed/recorded the event.
+* Send a researcher the video/photo in full resolution. Don't export it to a smaller size.
 
 ## Actions developers of UAP apps can take:
 
